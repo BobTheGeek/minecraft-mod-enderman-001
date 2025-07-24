@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Specification-Title: enderabilities
+Specification-Vendor: enderabilities
+Specification-Version: 1
+Implementation-Title: minecraft-mod-enderman-001
+Implementation-Version: 1.0.0
+Implementation-Vendor: enderabilities
+
