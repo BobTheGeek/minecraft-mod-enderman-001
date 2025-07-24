@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="MIT"
+
+[[mods]]
+modId="enderabilities"
+version="${file.jarVersion}"
+displayName="Ender Abilities"
+description='''
+A mod that grants players enderman-like abilities including teleportation, invisibility, enderman summoning, and a powerful ender sword.
+'''
+authors="Developer"
+
+[[dependencies.enderabilities]]
+modId="forge"
+mandatory=true
+versionRange="[43,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.enderabilities]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.19.2,1.20)"
+ordering="NONE"
+side="BOTH"
